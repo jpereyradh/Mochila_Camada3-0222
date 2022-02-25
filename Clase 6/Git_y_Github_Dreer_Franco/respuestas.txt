@@ -1,0 +1,5 @@
+a. El sistema de control Git lo inventó Linus Torvalds hace 10 años ante la imposibilidad de seguir usando BitKeeper como VCS y la ausencia de otro sistema de versionado.
+
+b. Github pertenece a Microsoft para incrementar el uso empresarial de la plataforma y llevar las herramientas y servicios de Microsoft a una nueva audiencia.
+
+c. Además de la terminal, se pueden usar aplicaciones de escritorio, como Github Desktop o extensiones de VSCode para simplificar la manipulación de archivos en Git.
