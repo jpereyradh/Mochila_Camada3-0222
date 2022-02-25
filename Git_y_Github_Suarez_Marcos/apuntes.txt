@@ -1,0 +1,4 @@
+a - Linus Torvalds. Para resolver y mejorar el metodo antiguo de guardar todo en archivos comprimidos y de esta manera subirlos a la nube.
+
+b-Pertenece a Microsoft porque asi es la vida.
+c- Se puede realizar directamente desde github arrastrando los archivos de manera mas intuitiva.
