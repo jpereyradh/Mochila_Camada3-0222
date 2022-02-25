@@ -1,0 +1,4 @@
+Repuestas 
+A: Git fue inventado por Linus Torvalds, Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+B: Actualmente GitHub pertenece a Microsoft porque la compro por 7500 millones de dolares dedibo a que en 2018 GitHub fue víctima del segundo mayor ataque de denegación de servicio (DDoS) de la historia. Llegando a recibir un tráfico de 1.35 terabits por segundo.
+C: Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades
