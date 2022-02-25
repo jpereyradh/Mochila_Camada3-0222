@@ -1,0 +1,10 @@
+Git quien lo invento y por que?
+
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+Su creador lo invento pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+A quien pertenece Github?
+El 4 de junio de 2018, Microsoft anunció la nes de dólares. Cerrándose la adquisición el 26 decompra de la compañía por un importe de 7500 millo octubre de 2018.
+
+Hay otra forma de trabajar que no sea con la terminal?
+No se puede evitar, ya que es la forma mas eficiente de trabajar.
