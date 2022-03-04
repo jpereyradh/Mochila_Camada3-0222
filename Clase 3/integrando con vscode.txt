@@ -1,0 +1,44 @@
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ mv intro_informatica/"clase 3"/Peliculas/Infantiles/Intenzamente.txt intro_informatica/"clase 3"/Peliculas/Infantiles/Intensamente.txt
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ mv intro_informatica/"clase 3"/Peliculas/Infantiles/"La dama y el bagavundo.png" intro_informatica/"clase 3"/Peliculas/Infantiles/"La dama y el vagabundo.png"
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ mv intro_informatica/"clase 3"/Peliculas/Terror/"el hexorcista.xls" intro_informatica/"clase 3"/Peliculas/Terror/"El exorcista.xls"
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ rm intro_informatica/"clase 3"/Peliculas/Accion/"Smooth Criminal.txt"
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ rm intro_informatica/"clase 3"/Peliculas/Romanticas/"We will rock you.js"
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ touch intro_informatica/"clase 3"/Peliculas/Accion/Prueba2/noBorrar.js
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ cd intro_informatica/"clase 3"/Peliculas
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house/intro_informatica/clase 3/Peliculas (Parra_Cecilia)
+$ mv Accion/Prueba2/noBorrar.js Romanticas/"Prueba dentro de la carpeta"
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house/intro_informatica/clase 3/Peliculas (Parra_Cecilia)
+$ cd ../../..
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ touch camadax.txt
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house
+$ cd intro_informatica/"clase 3"/Peliculas
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house/intro_informatica/clase 3/Peliculas (Parra_Cecilia)
+$ mv Terror/IT.xls Infantiles
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house/intro_informatica/clase 3/Peliculas (Parra_Cecilia)
+$ rm ../../../camadax.txt
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house/intro_informatica/clase 3/Peliculas (Parra_Cecilia)
+$ rm -r Romanticas/"Prueba dentro de la carpeta"
+
+ceci_@LAPTOP-CECI MINGW64 /c/digital_house/intro_informatica/clase 3/Peliculas (Parra_Cecilia)
+$ rm ../"clase 3"/intro_informatica/camadax.txt
