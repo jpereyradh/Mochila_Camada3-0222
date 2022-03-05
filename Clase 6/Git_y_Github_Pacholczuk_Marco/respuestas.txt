@@ -1,0 +1,11 @@
+Git fue desarrollado originalmente por Linus Torvalds
+Su idea era mejorar la eficiencia, la confiabilidad y compatibilidad
+del mantenimiento de versiones de aplicaciones cuando
+estas tienen un gran número de archivos.
+
+Actualmente Git es propiedad de Microsoft pero a pesar de eso sigue
+siendo un software Open Source
+
+Se puede usar Git sin la necesidad del terminal mediante interfases
+graficas, aunque por motivos de simplicidad no cuentan con todos los
+comandos de Git  
