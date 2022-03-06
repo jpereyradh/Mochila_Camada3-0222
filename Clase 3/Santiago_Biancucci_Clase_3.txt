@@ -1,0 +1,474 @@
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mkdir Peliculas
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ cd Peliculas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mkdir "Infantiles" "Accion" "Comedia" "Romanicas"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Romanicas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mkdir Terror
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Romanicas/  Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Infantiles/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ touch "Intenzamente.txt" "El juego del miedo.xls" "Rapido y furioso.pdf" "Ti
+tanic.jpg"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ ls
+'El juego del miedo.xls'  'Rapido y furioso.pdf'
+ Intenzamente.txt          Titanic.jpg
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Accion/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ touch "Smooth criminal.txt" "Diario de una pasion.js" "El Hexorcista.xls" "C
+ars.jpg"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ ls
+ Cars.jpg                  'El Hexorcista.xls'
+'Diario de una pasion.js'  'Smooth criminal.txt'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Terror
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Terror
+$ touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" 
+"We will rock you.js"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Terror
+$ ls
+'La dama y el bagavundo.png'  'We will rock you.js'
+'Que paso ayer.pdf'           'Yo antes de ti.xls'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Terror
+$ cd ../Comedia
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Comedia
+$ touch "Madagaskar.js" "Orgullo y prejuicio.txt" "IT.xls" "Mision imposible.png"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Comedia
+$ ls
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Comedia
+$ cd ../Romantica
+bash: cd: ../Romantica: No such file or directory
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Comedia
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Romanicas/  Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romanicas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanicas
+$ touch "Pocahintas.jpg" "Annabelle.js" "Los vengadores.js" "La mascara.js"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanicas
+$ ls
+ Annabelle.js         Pocahintas.jpg
+'Los vengadores.js'  '□'$'\203''La mascara.js'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanicas
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rmdir Romanicas/
+rmdir: failed to remove 'Romanicas/': Directory not empty
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm -r Romanicas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romanticas
+bash: cd: Romanticas: No such file or directory
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romanticas
+bash: cd: Romanticas: No such file or directory
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mkdir Romanticas
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romanticas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ touch "Pocahontas.jpg" "Annabelle.js" "Los vengadores.js" "La mascara.js"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ ls
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls- R
+bash: ls-: command not found
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El Hexorcista.xls'
+'Diario de una pasion.js'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'    
+
+./Infantiles:
+'El juego del miedo.xls'  'Rapido y furioso.pdf'
+ Intenzamente.txt          Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'We will rock you.js'
+'Que paso ayer.pdf'           'Yo antes de ti.xls'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ RESPUESTAS PUNTO 9
+bash: RESPUESTAS: command not found
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ SI, LAS CARPETAS DEL PUNTO 2 PUEDEN SER CREADAS TODAS JUNTAS CON EL COMANDO 
+MKDIR Y LOS NOMBRES ENTRE COMILLAS. DE IGUAL MODO PUEDEN SER CREADOS LOS ARCHIVOS DEL PUNTO 3 SÓLO QUE CON EL COMANDO TOUCH 
+bash: SI,: command not found
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mkdir Peliculas/Romanticas/Prueba
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ cd Peliculas/Romanticas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ mkdir c:/users/santi/Desktop/DH/Peliculas/Accion/Prueba2
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Infantiles/"El juego del miedo.xls" Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Infantiles/Rapido y furioso.pdf" Accion/
+> mv Infantiles/"Rapido y furioso.pdf" Accion/
+> $
+> "
+mv: target 'furioso.pdf Accion/'$'\n''$'$'\n' is not a directory
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Infantiles/"Rapido y furioso.pdf" Accion/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Infantiles/Titanic.jpg Romanticas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El Hexorcista.xls'  'Rapido y furioso.pdf'        
+'Diario de una pasion.js'   Prueba2/            'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'    
+
+./Infantiles:
+Intenzamente.txt
+
+./Romanticas:
+ Annabelle.js    'Los vengadores.js'   Prueba/
+'La mascara.js'   Pocahontas.jpg       Titanic.jpg
+
+./Romanticas/Prueba:
+
+./Terror:
+'El juego del miedo.xls'      'Que paso ayer.pdf'    'Yo antes de ti.xls'     
+'La dama y el bagavundo.png'  'We will rock you.js'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Accion/"Cars.jpg" Infantiles/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Accion/"El Hexorcista.xls Terror/
+> 2
+> "
+mv: missing destination file operand after 'Accion/El Hexorcista.xls Terror/'$'\n''2'$'\n'
+Try 'mv --help' for more information.
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Accion/"El hexorcista.xls" Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Accion/"Diario de una pasion.js" Romanticas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Comedia/it.xls Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Comedia/Madagaskar.js Infantiles
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Comedia/"Mision imposible.png" Accion/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Comedia/"Orgullo y prejuicio.txt" Romanticas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+'Mision imposible.png'  'Rapido y furioso.pdf'
+ Prueba2/               'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+
+./Infantiles:
+Cars.jpg  Intenzamente.txt  Madagaskar.js
+
+./Romanticas:
+ Annabelle.js              'Los vengadores.js'         Prueba/
+'Diario de una pasion.js'  'Orgullo y prejuicio.txt'   Titanic.jpg
+'La mascara.js'             Pocahontas.jpg
+
+./Romanticas/Prueba:
+
+./Terror:
+'El hexorcista.xls'           'Que paso ayer.pdf'     it.xls
+'El juego del miedo.xls'      'We will rock you.js'
+'La dama y el bagavundo.png'  'Yo antes de ti.xls'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Romanticas/Annabelle.js Terror/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Romanticas/"Los vengadores.js" Accion/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Romanticas/"La mascara.js" Comedia/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Romanticas/Pocahontas.jpg Infantiles/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Terror/"Que paso ayer.pdf" Comedia/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Terror/"La dama y el bagavundo.png" Romanticas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+'Los vengadores.js'  'Mision imposible.png'   Prueba2/  'Rapido y furioso.pdf'  'Smooth criminal.txt'
+
+./Accion/Prueba2:                                                               'Smooth criminal.txt'
+
+./Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Infantiles:
+Cars.jpg  Intenzamente.txt  Madagaskar.js  Pocahontas.jpg
+
+./Romanticas:
+'Diario de una pasion.js'  'La dama y el bagavundo.png'  'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+                                                                              txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+./Romanticas/Prueba:
+
+./Terror:
+ Annabelle.js  'El hexorcista.xls'  'El juego del miedo.xls'  'We will rock you.js'   it.xls                                                                u.js'   it.xls
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mv Peliculas/Infantiles/Intenzamente.txt Intensamente.txt
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mv Intensamente.txt Peliculas/Infantiles/Intensamente.txt
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mv Peliculas/Infantiles/Madagaskar.js Peliculas/Infantiles/Madagascar.js
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mv Peliculas/Romanticas/"La dama y el bagavundo.png" Peliculas/Romanticas/"La dama y el vagabundo.png"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ mv Peliculas/Terror/"El Hexorcista.xls" Peliculas/Terror/"El Exorcista.xls"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ rmdir Peliculas/Terror/"We will rock you.js"
+rmdir: failed to remove 'Peliculas/Terror/We will rock you.js': Not a directory
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ rm Peliculas/Terror/"We will rock you.js"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ rm Peliculas/Accion/"Smooth criminal.txt"
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ ls -R
+.:
+Peliculas/  Repaso_1y2/  repaso_clase1y2/
+
+./Peliculas:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Peliculas/Accion:
+'Los vengadores.js'      Prueba2/
+'Mision imposible.png'  'Rapido y furioso.pdf'
+
+./Peliculas/Accion/Prueba2:
+
+./Peliculas/Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Peliculas/Infantiles:
+Cars.jpg  Intensamente.txt  Madagascar.js  Pocahontas.jpg
+
+./Peliculas/Romanticas:
+'Diario de una pasion.js'     'Orgullo y prejuicio.txt'   Titanic.jpg
+'La dama y el vagabundo.png'   Prueba/                   'Yo antes de ti.xls' 
+
+./Peliculas/Romanticas/Prueba:
+
+./Peliculas/Terror:
+ Annabelle.js  'El Exorcista.xls'  'El juego del miedo.xls'   it.xls
+
+./Repaso_1y2:
+
+./repaso_clase1y2:
+git_bash_y_vscode/           interfaces_de_usuario/  software_y_hardware/     
+historia_de_la_informatica/  servidores/
+
+./repaso_clase1y2/git_bash_y_vscode:
+repaso.txt
+
+./repaso_clase1y2/historia_de_la_informatica:
+repaso.txt
+
+./repaso_clase1y2/interfaces_de_usuario:
+repaso.txt
+
+./repaso_clase1y2/servidores:
+repaso.txt
+
+./repaso_clase1y2/software_y_hardware:
+repaso.txt
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ touch Peliculas/Accion/Prueba2/noBorrar.js
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ cd Peliculas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Accion/Prueba2/noBorrar.js Romanticas/Prueba/noBorrar.js
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ cd ../
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ touch Camada.txt
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ ls
+Camada.txt  Peliculas/  Repaso_1y2/  repaso_clase1y2/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH
+$ cd Peliculas/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ mv Terror/it.xls Infantiles/IT.xls
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm c:/u
+unins000.dat  unins000.exe  unins000.msg  usr/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm c:/u
+unins000.dat  unins000.exe  unins000.msg  usr/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm c:/u
+unins000.dat  unins000.exe  unins000.msg  usr/
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm c:/users/santi/Desktop/DH/Peliculas/Infantiles/Camada.txt
+rm: cannot remove 'c:/users/santi/Desktop/DH/Peliculas/Infantiles/Camada.txt': No such file or directory
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm c:/users/santi/Desktop/DH/Camada.txt
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ rm -r Romanticas/Prueba
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+'Los vengadores.js'  'Mision imposible.png'   Prueba2/  'Rapido y furioso.pdf'
+
+./Accion/Prueba2:
+
+./Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Infantiles:
+Cars.jpg  IT.xls  Intensamente.txt  Madagascar.js  Pocahontas.jpg
+
+./Romanticas:
+'Diario de una pasion.js'  'La dama y el vagabundo.png'  'Orgullo y prejuicio.txt'   Titanic.jpg  'Yo antes de ti.xls'
+
+./Terror:
+ Annabelle.js  'El Exorcista.xls'  'El juego del miedo.xls'
+
+santi@DESKTOP-TEKF6R8 MINGW64 ~/Desktop/DH/Peliculas
+$
