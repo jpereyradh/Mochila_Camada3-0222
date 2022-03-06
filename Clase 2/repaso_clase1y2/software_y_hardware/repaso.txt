@@ -1,0 +1,1 @@
+Hardware son los componentes tangibles de una computadora como pueden ser desde el mouse hasta el microprocesador, en cambio, el software es la parte no tangible y seria el sistema operativo, los programas y demas que uno ejecuta desde la interfaz de la computadora.

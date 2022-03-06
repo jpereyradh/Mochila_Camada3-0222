@@ -1,0 +1,2 @@
+Visual Studio Code es un IDE desarrollado por Microsoft
+Git Bash es una aplicacion de terminal que se utiliza como interfaz en un sistema operativo mediante comandos

@@ -1,0 +1,4 @@
+La interfaz de usuario es el espacio donde se producen las interacciones entre seres humanos y máquinas y hay 3 tipos.
+CLI o por la terminal, escribiendo lineas de codigo
+GUI es la parte grafico, es mas amigable a la hora de usar un dispositivo, puede ser un sistema operativo, programas, etc
+NUI es la parte mas nativa, mas directa, mas sensitiva, puede ser mediante tactil, por señas, o hablando
