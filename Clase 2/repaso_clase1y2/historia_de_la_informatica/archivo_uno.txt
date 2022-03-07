@@ -1,0 +1,6 @@
+Todo arrancó con el ábaco en años antes de Cristo en China, para realizar cálculos matemáticos. 
+Muchísimos siglos después, ya después de Cristo, Blais Pascal creó un modelo que servía para unificar la manera de guardar información.
+Más adelante, el inglés Charles Babbage realizó el primer intento de computadora y luego Ada Lovelace el primer algoritmo computacional.
+Finalmente, pasado un siglo, Alan Turing creara "La máquina de Turing" para realizar cálculos lógicos complejos. 
+
+Un dato de color, la supercomputadora ENIAC fue administrada sólo por mujeres.

@@ -1,0 +1,2 @@
+Software es el conjunto de componentes intangibles que hacen posible la realizacion de tareas especificas en un ordenador
+Hardware es el conjunto de componentes tangibles de entrada y salida o internos que permiten el funcionamiento del ordenador
