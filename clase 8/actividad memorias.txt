@@ -1,0 +1,21 @@
+Actividad PS4 256 GB:
+conversion de juegos a GB:
+1) Boundy by Flame: 5,08 GB
+2) Diablo II: 41 GB
+3) DriveClub: 28,86 GB
+4) Flower:  17,58 GB
+5) Infamous: Second Son: 24 GB
+6) Killzone: Shadow Fall SP: 38,5 GB
+7) Knack: 35,6 GB
+8) MLB 14 The Show: 37,5 GB
+9) Resogun: 0,44 GB
+10) Trine 2: Complete Story 2,7 GB
+11) The Last of Us: 48,11 GB
+12) Assassin's Creed IV: Black Flag 21,2 GB
+13) Call of Duty: Ghosts: 49 GB
+14) Don't Starve: 0,59 GB
+15) Battlefield 4: 41,85 GB
+
+RESPUESTA
+Con una PS4 de 256 GB podemos descargar todos los juegos exceptuando los juegos 11, 13 y 15, ocupando un almacenamiento de 253,05 GB.
+Sin embargo, tambien podemos cambiar el juego 2 por el juego 15 ocupando un almacenamiento de 253,9 GB.
