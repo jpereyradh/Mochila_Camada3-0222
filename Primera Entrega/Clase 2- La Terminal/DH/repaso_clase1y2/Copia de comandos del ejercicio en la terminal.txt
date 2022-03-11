@@ -1,0 +1,82 @@
+epositorios de Intro a la Informatica/Mochila Personal Local (main)
+$ ls
+'Clase 1'/  'Clase 10'/  'Clase 2'/  'Clase 3'/  'Clase 4'/  'Clase 5'/  'Clase 6'/  'Clase 7'/  'Clase 8'/  'Clase 9'/   walterini
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local (main)
+$ git init
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local (main)
+$ cd Clase 2
+bash: cd: too many arguments
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local (main)
+$ cd "Clase 2"
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2 (main)
+$ mkdir DH
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2 (main)
+$ cd DH
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH (main)
+$ mkdir repaso_clase1y2
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH (main)
+$ cd repaso*
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ touch historia_de_la*/ repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  repaso.txt  servidores/
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ rm repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ touch historia_de_la* repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ rm repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ touch infraestructura/repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ touch historia_de_la_contabilidad/repaso.pdf
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ touch interfaces_de_usuario/repaso.xls
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ touch que_haremos_hoy/repaso.js servidores/repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.pdf
+
+./infraestructura:
+repaso.txt
+
+./interfaces_de_usuario:
+repaso.xls
+
+./que_haremos_hoy:
+repaso.js
+
+./servidores:
+repaso.txt
+
+Lumberjack@LAPTOP-J6UIOHBN MINGW64 ~/OneDrive/Escritorio/Repositorios de Intro a la Informatica/Mochila Personal Local/Clase 2/DH/repaso_clase1y2 (main)
+$
