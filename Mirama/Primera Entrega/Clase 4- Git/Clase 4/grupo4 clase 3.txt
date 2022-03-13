@@ -1,0 +1,210 @@
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ touch app.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ touch config.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ mkdir db
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git init
+Initialized empty Git repository in C:/Users/walte/OneDrive/Escritorio/Ecommerce/.git/    
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        app.js
+        config.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git add .
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   app.js
+        new file:   config.js
+
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git commit -m "primer commit"
+[main (root-commit) 3caae4b] primer commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 app.js
+ create mode 100644 config.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ cd db/
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ touch producto_db.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ touch carrito_db.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ cd ..
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ nano app.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git log
+commit 3caae4b7f06a5da42a498be6a1f07f37daa7afd8 (HEAD -> main)
+Author: walter videla <videlawalter2016@gmail.com>
+Date:   Mon Feb 21 22:29:50 2022 -0300
+
+    primer commit
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git commit -m "guardando lo importante"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git add .
+warning: LF will be replaced by CRLF in app.js.
+The file will have its original line endings in your working directory
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   app.js
+        new file:   db/carrito_db.js
+        new file:   db/producto_db.js
+
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git commit -m "guardando una parte del proyecto"
+[main 69c4c3d] guardando una parte del proyecto
+ 3 files changed, 1 insertion(+)
+ create mode 100644 db/carrito_db.js
+ create mode 100644 db/producto_db.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git log
+commit 69c4c3d4f69a2a1dc8b27db5be31674e2bd9cb3e (HEAD -> main)
+Author: walter videla <videlawalter2016@gmail.com>
+Date:   Mon Feb 21 22:37:24 2022 -0300
+
+    guardando una parte del proyecto
+
+commit 3caae4b7f06a5da42a498be6a1f07f37daa7afd8
+Author: walter videla <videlawalter2016@gmail.com>
+Date:   Mon Feb 21 22:29:50 2022 -0300
+
+    primer commit
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ cd db/
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ rm producto_db.js 
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ git restore .
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ rm ../config.js 
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../config.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ git add .
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ git commit -m "sacando la configuracion"
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../config.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce/db (main)
+$ cd ..
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git add .
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    config.js
+
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git commit -m "sacando la configuracion"
+[main 65622c3] sacando la configuracion
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 config.js
+
+walte@DESKTOP-SRR6L0Q MINGW64 ~/OneDrive/Escritorio/Ecommerce (main)
+$ git log
+commit 65622c3e978610b9b68ea97ac7588d0850c91864 (HEAD -> main)
+Author: walter videla <videlawalter2016@gmail.com>
+Date:   Mon Feb 21 22:43:35 2022 -0300
+
+    sacando la configuracion
+
+commit 69c4c3d4f69a2a1dc8b27db5be31674e2bd9cb3e
+Author: walter videla <videlawalter2016@gmail.com>
+Date:   Mon Feb 21 22:37:24 2022 -0300
+
+    guardando una parte del proyecto
+
+commit 3caae4b7f06a5da42a498be6a1f07f37daa7afd8
+Author: walter videla <videlawalter2016@gmail.com>
+Date:   Mon Feb 21 22:29:50 2022 -0300
+
+    primer commit
