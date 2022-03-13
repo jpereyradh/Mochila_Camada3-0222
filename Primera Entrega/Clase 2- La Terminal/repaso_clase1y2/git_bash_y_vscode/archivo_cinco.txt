@@ -1,0 +1,1 @@
+Git bash es una aplicacion que permite escribir lineas de codigo dentro de una terminal y vscode es el entorno/interface que permite codificar mediante las aplicaciones

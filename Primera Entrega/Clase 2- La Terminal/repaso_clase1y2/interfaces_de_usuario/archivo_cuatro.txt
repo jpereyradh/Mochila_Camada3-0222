@@ -1,0 +1,3 @@
+interfaz de linea de comando son interfaces alfanumericas que solo presentan texto para dar instrucciones
+interfaz grafica de usuario permiten comunicarse con la computadora de forma rapida e intuitiva mediante elementos graficos de control y medida
+interfaz nativa de usuario es la forma de interactuar ya sea tactil, por voz, por movimiento corporales
