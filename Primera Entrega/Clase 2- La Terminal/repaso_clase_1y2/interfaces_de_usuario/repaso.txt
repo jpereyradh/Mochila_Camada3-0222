@@ -1,0 +1,2 @@
+la interfaz es la forma en que el usuario se comunica con el SO para ejecutar los requerimientos. hay diferentes, por ejemplo la terminal es una interfaz de lineas de comandos, windosws/macOs son interfases graficas y Siri/Gala o el dictado de google son interfaces nativas. 
+

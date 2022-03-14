@@ -1,0 +1,2 @@
+VSCODE es un entorno con herramientas para facilitar el desarrollo de la web o app en la que trabajemos. GIT es un tipo de terminal para codigos escritos.
+

@@ -1,0 +1,1 @@
+Un servidor en una o varias computadoras a las que uno usuario hace una peticion y le devuelven informacion que buscan. Hay servidores web, de base de datos y de archivos.
