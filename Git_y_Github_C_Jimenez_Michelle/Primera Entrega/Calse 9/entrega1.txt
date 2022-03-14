@@ -1,0 +1,17 @@
+● Descripción del SO
+Red Hat fue una distribución Linux creada por Red Hat,1​ que llegó a ser una de las más populares en los entornos de usuarios domésticos hasta el 22 de septiembre de 2003 cuando los proyectos Fedora y Red Hat se fusionaron.
+● ¿Es open source o con licencia ?
+es open source, ya que es una distribucion de linux
+● ¿Cuales son los recursos de Hard que tiene la
+MV? Si no se pueden ver, buscar requisitos
+mínimos en internet
+necesita 10 de disco y 15 gb de ram y un procesador 
+● ¿Cómo se accede a la ventana de comandos?
+En concreto, cualquier sistema GNU/Linux dispone de varias terminales de línea de comandos disponibles para iniciar sesión accesibles mediante la combinación CONTROL+ALT+FX (X=1,2,3,4,5,6) y una interfaz gráfica por defecto accesible mediante CONTROL+ALT+F7
+
+● ¿Puedo instalar aplicaciones?¿Por que?
+Los componentes disponibles como Application Streams pueden ser empaquetados como módulos o paquetes RPM, y se entregan a través del repositorio AppStream en Red Hat Enterprise Linux 8. Cada Application Stream tiene un ciclo de vida determinado, ya sea el mismo que RHEL 8 o más corto, más adecuado a la aplicación particular. L
+● ¿Hay juegos instalados?
+
+no 
+● Capturar una imagen del file explorer (ejemplo)
