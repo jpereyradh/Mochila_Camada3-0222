@@ -1,0 +1,3 @@
+interfaz de linea de comandos CUI interfaces alfanumericas que solo presentan textos
+interfaz grafica de usuario GUI permiten comunicarse con la computadora de forma rapida e intuitiva
+Interfaz nativa de usuario NUI pueden ser tactiles representando graficamente un panel de control en una panntalla sensible al tacto
