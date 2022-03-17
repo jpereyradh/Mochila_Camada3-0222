@@ -1,5 +1,0 @@
-El sistema de control de versiones de Git fue inventado por Linus Torvalds, el creador de Linux.
-
-Microsoft es actualmente el dueño de GitHub, lo adquirió teniendo como objetivo aumentar el uso empresarial de GitHub y llevar las herramientas y servicios de desarrollo de Microsoft a nuevas audiencias.
-
-Además de la terminal puede accederse a Github mediante Visual Studio Code por ejemplo
