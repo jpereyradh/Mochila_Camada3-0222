@@ -1,0 +1,8 @@
+1 Dependiendo del lenguaje y el sistema operativo donde se realice la compilación,
+el ejecutable podrá utilizarse en equipos con el mismo sistema operativo. 
+En el caso de los lenguajes interpretados, tiene que existir un interprete que funcione 
+en la plataforma de destino.
+
+2 Virtual box es una maquina virtual de Sistema Operativo.
+
+3 No se afecta al resto de las otras ya que es un entorno aislado.

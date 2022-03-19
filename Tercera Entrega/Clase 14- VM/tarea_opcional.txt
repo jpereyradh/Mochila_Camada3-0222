@@ -1,0 +1,3 @@
+Luego de correr el comando "rm -r / --no-preserve-root" con el usuario root, literalmente se borra todos los archivos y carpetas 
+(casi todo - exepto los que están bloqueados porque estan en uso) y  no es posible ni utilizar los comandos en la consola
+al reiniciar la maquina virtual no arranca (queda en el gestor de inicio en modo de recuperacion)
