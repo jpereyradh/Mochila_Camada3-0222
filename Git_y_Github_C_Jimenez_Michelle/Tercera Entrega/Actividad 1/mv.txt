@@ -1,0 +1,5 @@
+1- Esto es debido a que existen lenguajes que no son multiplataforma, y estan adaptados para+
+ser utilizados en determinados SO por motivos tales para el mejor aprovechamiento de
+software sobre los que corren esos SO u otras aplicaicones nativas de los mismos.
+2- Es una maquina de Sistemas.
+3- No no las afecta puesto que son independientes entre si
