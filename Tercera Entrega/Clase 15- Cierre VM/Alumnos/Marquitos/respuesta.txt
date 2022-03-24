@@ -1,0 +1,4 @@
+1- Porque depende de los compiladores que dichos sistemas operativos poseen, pueden utilizar diferentes lenguajes de programación.
+2- Maquina virtual de sistemas.
+3- No se verán afectadas porque, aunque están instaladas en la misma aplicación, se instalan de manera separada. De este modo, si una se rompe no afecta a las demás.
+	
