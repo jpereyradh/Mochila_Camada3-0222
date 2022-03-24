@@ -1,0 +1,9 @@
+Dirección IPv4 privada. . . . . . . . . . . . . . : 192.168.100.119
+Dirección IPv4 pública. . . . . . . . . . . . . . :186.122.181.18
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Dirección física (MAC). . . . . . . . . . : 66-8B-23-8C-C9-C9
+¿ La IP pública y privada de qué clase son ? 
+La ip privada Clase C, la pública Clase B
+
+Marca de placa de red
+Tipo de producto	Broadcom BCM43142 802.11 bgn Wi-Fi M.2 Adapter
