@@ -1,0 +1,9 @@
+IP PUBLICA: 200.7.158.177 CLASE C
+
+IP PRIVADA: 192.168.0.20 CLASE C
+
+MASCARA DE SUBRED: 255.255.255.0
+
+MAC: 1C-BF-CE-2A-7B-38 
+
+Info Macvedors: Shenzhen Century Xinyang Technology Co., Ltd
