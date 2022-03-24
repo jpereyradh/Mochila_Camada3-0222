@@ -1,0 +1,15 @@
+Mi direccion IP publica es: 190.17.57.253
+
+Mi direccion IP privada es: 192.168.0.186
+
+Mi mascara de Subred es: 255.255.255.0
+
+Mi direccion MAC es: 18-C0-4D-62-0C-E3
+
+Mi IP privada es clase C
+
+Mi IP publica es clase B
+
+
+Mi placa de red es GIGA-BYTE TECHNOLOGY CO.,LTD.
+
