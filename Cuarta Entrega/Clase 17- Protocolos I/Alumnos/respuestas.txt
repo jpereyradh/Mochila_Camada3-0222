@@ -1,0 +1,12 @@
+DIRECCIÓN MAC: 90:2e:16:27:e4:d8
+
+¿ La IP pública y privada de qué clase son ?
+
+Mi IP pública es clase A ya que está dentro del rango.
+Mi IP privada comienza con 192 y la subred es 255.255.255.0 por lo tanto es clase C
+
+
+¿ Qué información puedo obtener de la dirección MAC?
+
+Cada dirección MAC incluye seis parejas de números. Los primeros tres pares sirven para identificar al fabricante (existen buscadores como este por si tenéis curiosidad) y los tres siguientes al modelo concreto.
+Mi marca de placa de red es: LCFC(HeFei) Electronics Technology co., ltd
