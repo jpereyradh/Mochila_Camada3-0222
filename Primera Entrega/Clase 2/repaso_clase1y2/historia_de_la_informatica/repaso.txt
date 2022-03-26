@@ -1,6 +1,0 @@
-La historia de la informatica comienza con la utilizacion de los seres humanos con herramientas que sean capaces de realizar calculos logicos. Para ello,
-nos remontamos al año 1122 AC con la invencion del abaco, luego pasamos al año 1642 DC con la invencion de la pascalina. En el año 1801 se creo las Tarjetas
-Perforadas y en 1833 se creo la primera computadora. En 1842 se creo el primer algoritmo, en 1936 se creo la maquina de Turing. En 1943 se creo la ENIAC y el
-primer lenguaje de programacion. En 1945 se creo la primera aequitectura de una computadora. En la decada de los 40 se bautizo como la primera generacion de 
-las computadoras, en la decada de los 60 se creo el primer transistor. En la decada de los 70 se creo los microchips y luego en los años 80 se empezo a 
-comercializar los sistemas operativos vigentes hasta la fecha.

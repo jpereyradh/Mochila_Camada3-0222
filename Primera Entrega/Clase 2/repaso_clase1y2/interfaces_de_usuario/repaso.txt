@@ -1,9 +1,0 @@
-La interfaz de usuario es el medio con que el usuario puede comunicarse con una máquina, equipo, computadora o dispositivo, y comprende todos los puntos de 
-contacto entre el usuario y el equipo.
-Estas se dividen en 3 categorias:
-1) Interfaz de linea de comandos (CLI): interfaces alfanuméricas (intérpretes de comandos) que solo presentan texto.
-2) Interfaz grafica de usuario (GUI): permiten comunicarse con la computadora de forma rápida e intuitiva representando gráficamente los elementos de control
-y medida.
-3) Interfaz nativa de usuario (NUI): pueden ser táctiles, representando gráficamente un "panel de control" en una pantalla sensible al tacto que permite interactuar con el dedo de forma similar a si se accionara un control físico; pueden funcionar mediante reconocimiento del habla, como, por ejemplo, Siri; o mediante movimientos corporales, como es el caso de Kinect.
-
-

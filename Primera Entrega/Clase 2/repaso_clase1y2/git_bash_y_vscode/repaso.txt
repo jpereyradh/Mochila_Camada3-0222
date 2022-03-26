@@ -1,4 +1,0 @@
-Git Bash es una aplicación para Windows que nos permite ejectuar líneas de comandos de Git. Es una terminal que se utiliza como interfaz con un sistema
-operativo mediante comandos escritos.
-Visual Studio Code es un editor de código fuente. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización
-inteligente de código, fragmentos y refactorización de código.
