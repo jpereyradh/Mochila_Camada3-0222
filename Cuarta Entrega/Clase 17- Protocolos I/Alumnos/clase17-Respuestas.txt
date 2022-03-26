@@ -1,0 +1,7 @@
+Dirección IP Pública: 181.228.142.225
+Direcion IP Privada: 192.168.0.131
+Máscara de subred: 255.255.255.0
+Dirección MAC: 1c:91:80:d1:18:0e
+
+La IP pública es de clase B y la IP privada es de clase C.
+La marca, Apple Inc.
