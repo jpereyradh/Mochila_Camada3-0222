@@ -1,0 +1,36 @@
+Práctica comparativa
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X.
+Estamos confundidos debido a que no los etiqueto con nombres…
+Nuestro padre nos envió los siguientes procesadores:
+Amd Ryzen 5 3600
+Amd a8 9600
+intel i3 3230
+¿Cuál es para cada uno?
+
+AMD Ryzen 5 3600:
+nucleos: 6
+velocidad: 3.6 - 4.2 GHz
+
+AMD A8 9600:
+nucleos: 4
+velocidad: 3.1 - 3.4 GHz
+
+Intel i3 3230:
+nucleos: 2
+velocidad: 3.3 GHz
+
+Requisitos minimos para Cyberpunk 2077:
+nucleos: 4
+velocidad: 3.4 - 3.8 GHz
+El procesador ideal para Mathilda es AMD Ryzen 5 3600
+
+Requisitos minimos para la  suite Office 2019:
+nucleos: 2
+velocidad: 1.6 GHz
+El procesador ideal para Marcelo es Intel i3 3230
+
+requisitos minimos para Wondershare Filmora X:
+nucleos: 2
+velocidad: 2.4 GHz
+El procesador ideal para el hermano mayor es AMD A8 9600

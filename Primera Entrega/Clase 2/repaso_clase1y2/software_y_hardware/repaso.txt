@@ -1,0 +1,2 @@
+El hardware es el conjunto de elementos físicos o materiales que constituyen una computadora o un sistema informático.
+El software es el conjunto de programas y rutinas que permiten a la computadora realizar determinadas tareas.
