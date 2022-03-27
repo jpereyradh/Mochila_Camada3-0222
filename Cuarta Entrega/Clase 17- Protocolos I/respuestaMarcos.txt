@@ -1,0 +1,14 @@
+IP publica: 190.113.166.130
+
+IP privada:  V▒nculo: direcci▒n IPv6 local. . . : fe80::51c8:906b:894e:2183%11
+   Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M▒scara de subred . . . . . . . . . . . . : 255.255.255.0
+
+
+direccion Mac: 74-4C-A1-C5-30-79
+
+
+¿ La IP pública y privada de qué clase son ? 
+La ip privada Clase C, la pública Clase B
+
+Al ir a la pagina https://macvendors.com/ me da como resultado: Liteon Technology Corporation
