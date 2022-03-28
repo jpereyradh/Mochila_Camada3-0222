@@ -1,0 +1,5 @@
+Direccion ip Publica: 181.167.50.22
+Direccion ip privada: 192.168.1.100 Mascara subred :255.255.255.0
+Direccion MAC: B4-2E-99-6D-1F-34
+La IP publica y privada son de clase C
+De la MAC podemos conocer la marca del fabricante: en mi caso es GIGA-BYTE TECHNOLOGY CO., LTD.

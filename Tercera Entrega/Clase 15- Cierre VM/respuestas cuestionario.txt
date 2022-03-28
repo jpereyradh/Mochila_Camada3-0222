@@ -1,0 +1,25 @@
+1) ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y otros no?
+
+Esto no es tan cierto con lenguajes de programación modernos. El problema
+radica en la arquitectura del hardware y la manera en que el sistema operativo
+opera con ese hardware. Si el código, sin importar el lenguaje, es compilado
+o interpretado a código máquina (binario) directamente por el sistema operativo,
+esto puede causar problemas de acuerdo a la arquitectura del hardware. Los
+lenguajes compilados actuales, en su mayoría, tienen lo que llaman una "virtual"
+machine" que es una entorno intermedio de compilación/interpretación, que se
+encargan de trabajar en conjunto con el sistema operativo para traducir el
+código a código máquina minimizando los inconvenientes causado por el hardware.
+
+2) ¿Qué tipo de máquina virtual es VirtualBox?
+
+Se trata de una máquina virtual type-2 hypervisor
+
+3) Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+a las demás? ¿por qué?
+
+Bueno, eso depende de qué recursos compartan. Si las máquinas virtuales son
+totalmente independientes en términos de hardware virtualizado, las demás
+máquinas virtuales seguirían funcionando. En el caso de compartir, por ejemplo,
+un disco virtual, y es éste el que falla, todas las máquinas virtuales que lo
+utilicen fallarán.
