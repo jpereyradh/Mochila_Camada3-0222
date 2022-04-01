@@ -1,0 +1,20 @@
+La IP publica sin VPN es efectivamente la propia de nuestro router. La  misma se mantendrá igual siempre que sea dinamica.
+
+La IP publica con VPN o redes privadas virtuales permiten conectarte a internet a través de otro servidor en vez de tu router, obteniendo también otra IP diferente a la tuya, pudiendo estar este servidor en otro país.
+
+La IP publica con TOR se asigna de manera aleatoria a la conexión, que geográficamente se encuentra en otro lugar. Este cambio permite ocultar tu ubicación física, para verificarlo puedes hacer uso de los servicios que te permiten conocer la dirección IP con la que navegas. A su vez, ofrece anonimato debido a las capas de cifrado que este navegador ofrece, por lo que lo hace mucho mas seguro pero a la vez mas lento que los navegadores mas utilizados.
+
+
+Lo que sucedió con el video es que estaba bloqueado para mi ubicacion geografica (Argentina) y al activar el VPN obtuve el permiso ya que me dio una geolocalización y un IP distintos.
+
+Con TOR tambien pude ingresar al video sin problemas.
+
+
+En el caso del navegador normal, sin vpn, la velocidad fue la contratada con mi proveedor.
+En el caso del navegador normal, con vpn, la velocidad fue mucho menor en cuanto a la bajada pero menor PING y misma velocidad de subida.
+En el caso del navegador con TOR, la velocidad fue mayor que con VPN, menor que en el navegador normal pero con mucho mayor PING y misma velocidad de subida.
+
+el PING se debe a las multiconexiones realizadas por los navegadores en cuestión, ya que realiza distintas conexiones a traves de los servidores para que se encripte la informacion.
+
+Como programa, ping es una utilidad de diagnóstico en redes de computadoras que comprueba el estado de la comunicación del anfitrión local con uno o varios equipos remotos de una red que ejecuten IP. Se vale del envío de paquetes ICMP de solicitud y de respuesta. Mediante esta utilidad puede diagnosticarse el estado, velocidad y calidad de una red determinada.
+
