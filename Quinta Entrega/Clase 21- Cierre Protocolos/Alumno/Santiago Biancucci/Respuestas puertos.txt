@@ -1,0 +1,37 @@
+ZOOM- PUERTOS: TCP 80, TCP 443, TCP 8801 – 8802, UDP 3478, 3479, 8801 – 8810.
+
+DISCORD- PUERTOS: 443 TCP para chats de texto. Para voz, es un puerto UDP aleatorio entre 50.000 - 65.535.
+
+GOOGLE MEET- PUERTOS: TCP (puerto 443) y UDP (puertos 443 y 19302–19309)
+
+WHATSAPP- PUERTOS: TCP 443 (HTTPS) para pasar la mayoría del tráfico de conexión, pero también usa TCP 80 (HTTP). Si se utiliza la voz, entonces se usan los puertos 4244, 5222, 5223, 5228,50318, 59234 & 5242
+
+MYSQL- PUERTO: 3306 por defecto
+
+GIT - PUERTO: Escucha por un puerto dedicado (9418) y nos da un servicio similar al del protocolo SSH; pero sin ningún tipo de autentificación.
+
+SSL- PUERTO: 443
+
+HTTP- PUERTO: de forma predeterminada usa el puerto 80
+
+VIRTUALBOX- PUERTOS: puerto anfitrión 2222 puerto invitado 22 y puerto anfitrión 8080 puerto invitado 80
+
+VPN- PUERTO: 1194
+
+OUTLOOK- PUERTOS: 143 o 993
+
+FTP- PUERTOS:  20 y 21
+
+WORD- PUERTOS: TCP ports 80 and 443
+
+SKYPE- PUERTOS: 443/TCP, 3478-3481/UDP
+
+EPIC GAMES- PUERTOS: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000.
+
+FIFA 21- PUERTOS:  TCP: 1935, 3478-3480, 3659, 10000-10099, 42127. UDP: 3074, 3478-3479, 3659, 6000.
+
+SPOTIFY- PUERTOS: TCP 4070 para conectarse a sus servidores en la aplicación de escritorio, pero debe usar los puertos web comunes 443 y 80 si esto falla.
+
+TEAMVIEWER- PUERTOS: prefiere establecer conexiones TCP y UDP salientes a través del puerto 5938, que es el principal puerto que utiliza y con el que TeamViewer tiene un mejor rendimiento. También el 443 y el 80
+
+NETFLIX- PUERTO: TCP: 443
