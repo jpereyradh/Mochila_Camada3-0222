@@ -1,0 +1,28 @@
+SIN VPN
+IP: 200.7.158.177
+Geolocalización correcta
+Ping 31ms / Bajada 21Mbps / Subida 3.20Mbps
+
+VPN
+IP: 77.111.246.40
+Geolocalización de EE.UU
+Ping 210ms / Bajada 0.93Mbps / Subida 3.22Mbps
+
+TOR Brave
+IP: 23.128.248.53
+No puede ser geolocalizado
+Ping 576ms / Bajada 4.38Mbps / Subida 2.75Mbps
+
+Las IP publicas son diferentes ya que Las VPN permiten conectarte a 
+internet a través de otro servidor en vez de tu router, obteniendo
+ otra IP diferente a la mia, pudiendo estar este servidor en otro país.
+
+El video no puede ser visualizado desde un IP de Argentina ya que está 
+confirgurado para no poder ser visto desde éste país pero si desde, por ejemplo,
+EE.UU
+
+Ping es la medida que se ocupa para medir la latencia, es decir
+el tiempo que tardan en comunicarse una conexión local con un 
+equipo remoto en la red IP.
+Como se puede observar, el ping aumenta a medida que el recorrido de los 
+paquetes se extiende al pasar por una mayor cantidad de nodos
