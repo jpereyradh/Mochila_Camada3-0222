@@ -1,0 +1,1 @@
+software hace referencia a los programas incluidos en un sistema operativo que nos permiten relacionarnos con la computadora ejecutando ordenes y obteniendo resultados acordes, estan almacenados, soportados y relacionados en el hardware que son los elementos fisicos del ordenador (placas, teclado, monitor, etc)
