@@ -1,0 +1,2 @@
+hardware (entrada, salida e internos)
+software (sistemas, programacion y aplicacion)

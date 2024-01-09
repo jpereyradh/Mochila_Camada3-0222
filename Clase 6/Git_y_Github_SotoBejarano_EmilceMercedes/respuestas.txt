@@ -1,0 +1,3 @@
+a. Git es un proyecto de código abierto y con un mantenimiento activo que desarrolló el famoso creador del kernel del sistema operativo Linux, en 2005.
+b. El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares
+c. Si, con Visual Studio Code
